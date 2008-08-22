@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;a href="${1:#}" class="cancel"&gt;${2:cancel}&lt;/a&gt;$0</string>
+	<key>name</key>
+	<string>HTML - cancel</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>cancel</string>
+	<key>uuid</key>
+	<string>CE91CD87-4601-493B-98FE-84E18B991A42</string>
+</dict>
+</plist>
