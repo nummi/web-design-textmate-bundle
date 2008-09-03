@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue quam nec augue. Proin id quam. Vivamus in sapien in sem pharetra facilisis. Ut euismod, justo id pulvinar luctus, lacus leo dignissim odio, sed interdum nibh purus a dolor. Nullam at libero. Ut elementum porttitor mauris. Praesent mi purus, bibendum consectetuer, facilisis quis, accumsan ut, est. Nunc volutpat iaculis urna. Aenean consectetuer leo quis massa. Praesent urna. Nam et urna et enim vestibulum accumsan. Nulla eleifend sem vel ligula.
+
+Nullam condimentum dolor ac purus. Sed vel velit. Curabitur ac sapien auctor ante eleifend placerat. Nunc est. Praesent ipsum. Mauris a sem non tortor consectetuer tincidunt. Sed tincidunt neque sed urna. Nulla placerat rutrum sem. Morbi condimentum, justo non tincidunt faucibus, tellus dolor venenatis augue, ut porta velit elit eu elit. Nam ac elit. Sed sit amet nunc ut mauris interdum cursus. Phasellus sagittis nisi eget diam commodo dignissim. Donec fringilla magna in ligula porta tincidunt. Praesent iaculis risus vitae ligula.</string>
+	<key>name</key>
+	<string>HTML - lorem_large</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>lorem_large</string>
+	<key>uuid</key>
+	<string>5E83726B-1549-4273-8A62-3E8399E06C24</string>
+</dict>
+</plist>
