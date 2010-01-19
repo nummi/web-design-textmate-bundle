@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean odio nibh, euismod a, lobortis in, laoreet eu, eros. Praesent lorem risus, commodo sit amet, viverra in, sagittis nec, justo.</string>
 	<key>name</key>
-	<string>HTML - lorem_small</string>
+	<string>HTML - lorem</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>lorem_small</string>
+	<string>lorem</string>
 	<key>uuid</key>
-	<string>137BB3C0-9BF6-4EFB-B003-E705710D4682</string>
+	<string>1A14A673-C934-4F7B-98E3-1BDF650F455F</string>
 </dict>
 </plist>
