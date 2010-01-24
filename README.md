@@ -1,12 +1,12 @@
 # CSS and HTML snippets
 
-    b<tab>  _border: ;_
-    bp<tab> _background-position: ;_
-    bt<tab> _margin-top: ;_
+    b<tab>:  border: ;
+    bp<tab>: background-position: ;
+    bt<tab>: margin-top: ;
 
-    div#<tab>
-    _<div id="">
-    </div>_
+    div#<tab>:
+    <div id="">
+    </div>
 
 
 # How to Install
